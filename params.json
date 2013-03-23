@@ -1,0 +1,1 @@
+{"name":"Blog","tagline":"李龙的博客","body":"### 欢迎来到我的博客.\r\n断断续续学习了一些东西，借助这个博客，好好整理一下。\r\n\r\n```\r\n$ cd your_repo_root/repo_name\r\n$ git fetch origin\r\n$ git checkout gh-pages\r\n```\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
